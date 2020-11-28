@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+satay+beef=the ultimate flavour
 Use the left arrow to go back!
